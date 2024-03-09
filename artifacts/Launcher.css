@@ -1,0 +1,28 @@
+#launcher-button-container {
+    position: absolute;
+    height: 100%;
+    aspect-ratio: 1/1;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#launcher-button {
+    background: rgba(255, 255, 255, 0.1);
+
+    border-radius: 50%;
+    height: 34px;
+    width: 34px;
+}
+
+#launcher-button img {
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    opacity: 100;
+}
+.hw-screen {
+    height: 100%;
+    width: 100%;
+}

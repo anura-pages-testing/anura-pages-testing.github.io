@@ -1,0 +1,11 @@
+{
+  "name": "Terminal",
+  "type": "auto",
+  "package": "anura.term",
+  "index": "term.html",
+  "icon": "term.png",
+  "wininfo":{
+    "title":"Terminal",
+    "allowMultipleInstance": "true"
+  }
+}
